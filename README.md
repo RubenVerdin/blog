@@ -1,2 +1,2 @@
-# blog
+# Blog Project
 My blog project
